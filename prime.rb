@@ -5,4 +5,6 @@ def prime?(myInt)
   else
     return false
   end
+  false
+  
 end
